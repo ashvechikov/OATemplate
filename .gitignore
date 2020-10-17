@@ -1,4 +1,13 @@
 ./.idea/*
 
-*bin/*
-*obj/*
+./Data/bin/*
+./Data/obj/*
+
+./Service/bin/*
+./Service/obj/*
+
+./Repository/bin/*
+./Repository/obj/*
+
+./WebApp/bin/*
+./WebApp/obj/*
