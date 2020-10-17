@@ -1,0 +1,9 @@
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Data/bin/Debug/netcoreapp3.1/Data.deps.json
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Data/bin/Debug/netcoreapp3.1/Data.dll
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Data/bin/Debug/netcoreapp3.1/Data.pdb
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Data/obj/Debug/netcoreapp3.1/Data.csprojAssemblyReference.cache
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfoInputs.cache
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Data/obj/Debug/netcoreapp3.1/Data.csproj.CoreCompileInputs.cache
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Data/obj/Debug/netcoreapp3.1/Data.dll
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Data/obj/Debug/netcoreapp3.1/Data.pdb

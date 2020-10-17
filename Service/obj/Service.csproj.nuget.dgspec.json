@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/as/Programming/My Projects/NET Core/UP/Service/Service.csproj": {}
+  },
+  "projects": {
+    "/Users/as/Programming/My Projects/NET Core/UP/Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/as/Programming/My Projects/NET Core/UP/Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/Users/as/Programming/My Projects/NET Core/UP/Data/Data.csproj",
+        "packagesPath": "/Users/as/.nuget/packages/",
+        "outputPath": "/Users/as/Programming/My Projects/NET Core/UP/Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/as/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/as/Programming/My Projects/NET Core/UP/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/as/Programming/My Projects/NET Core/UP/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/Users/as/Programming/My Projects/NET Core/UP/Repository/Repository.csproj",
+        "packagesPath": "/Users/as/.nuget/packages/",
+        "outputPath": "/Users/as/Programming/My Projects/NET Core/UP/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/as/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/as/Programming/My Projects/NET Core/UP/Data/Data.csproj": {
+                "projectPath": "/Users/as/Programming/My Projects/NET Core/UP/Data/Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/as/Programming/My Projects/NET Core/UP/Service/Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/as/Programming/My Projects/NET Core/UP/Service/Service.csproj",
+        "projectName": "Service",
+        "projectPath": "/Users/as/Programming/My Projects/NET Core/UP/Service/Service.csproj",
+        "packagesPath": "/Users/as/.nuget/packages/",
+        "outputPath": "/Users/as/Programming/My Projects/NET Core/UP/Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/as/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/as/Programming/My Projects/NET Core/UP/Repository/Repository.csproj": {
+                "projectPath": "/Users/as/Programming/My Projects/NET Core/UP/Repository/Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

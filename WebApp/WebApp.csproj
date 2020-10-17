@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <UserSecretsId>aspnet-WebApp-F207C712-2EEC-4A46-A1EA-8E2C6C4D6A67</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.5" />
+        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.5" />
+        <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.5" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.5" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.5" />
+        <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="5.0.0-rc2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Repository\Repository.csproj" />
+      <ProjectReference Include="..\Service\Service.csproj" />
+    </ItemGroup>
+
+</Project>

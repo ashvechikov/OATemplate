@@ -1,0 +1,12 @@
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/bin/Debug/netcoreapp3.1/Repository.deps.json
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/bin/Debug/netcoreapp3.1/Repository.dll
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/bin/Debug/netcoreapp3.1/Repository.pdb
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/bin/Debug/netcoreapp3.1/Data.dll
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/bin/Debug/netcoreapp3.1/Data.pdb
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/obj/Debug/netcoreapp3.1/Repository.csprojAssemblyReference.cache
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/obj/Debug/netcoreapp3.1/Repository.AssemblyInfoInputs.cache
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/obj/Debug/netcoreapp3.1/Repository.AssemblyInfo.cs
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/obj/Debug/netcoreapp3.1/Repository.csproj.CoreCompileInputs.cache
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/obj/Debug/netcoreapp3.1/Repository.csproj.CopyComplete
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/obj/Debug/netcoreapp3.1/Repository.dll
+/Users/as/Programming/My Projects/NET Core/UniversityPortal/NEW/UP/Repository/obj/Debug/netcoreapp3.1/Repository.pdb
